@@ -1,4 +1,4 @@
-# nix-minimal-install-script
+# *nix-minimal-install-script*
 
 ---
 
@@ -7,7 +7,7 @@ but it's for nixos minmal install
 
 those who want to replicate someone's setup they have to enter the git repo link to the git link option
 
-# setup
+# *setup*
 !!!
 ```
 curl -fsSL https://raw.githubusercontent.com/mub-drk/nix-minimal-install-script/refs/heads/main/main.sh | sudo bash
@@ -15,7 +15,7 @@ curl -fsSL https://raw.githubusercontent.com/mub-drk/nix-minimal-install-script/
 ```
 
 ---
-# sp tnx :
+# *sp tnx :*
 
 ```
 https://github.com/TheRiceCold/dots.git

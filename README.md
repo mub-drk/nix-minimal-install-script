@@ -9,4 +9,8 @@ those who want to replicate someone's setup they have to enter the git repo link
 
 #setup
 !!!
-``curl -fsSL https://raw.githubusercontent.com/mub-drk/nix-minimal-install-script/refs/heads/main/main.sh | sudo bash``
+```curl -fsSL https://raw.githubusercontent.com/mub-drk/nix-minimal-install-script/refs/heads/main/main.sh | sudo bash```
+
+sp tnx 
+
+``"https://github.com/TheRiceCold/dots.git"``
